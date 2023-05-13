@@ -1,4 +1,7 @@
 #Temperature-Monitoring
+
+Note: as far as i know this script only works
+for Raspberry pi or maybe other arm devices
    
 This is a simple python script to monitor the room temperature.   
 Using a sensor from Adafruit_DHT.  
