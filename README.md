@@ -7,7 +7,7 @@ This is a simple python script to monitor the room temperature.
 Using a sensor from Adafruit_DHT.  
   
 To install all the needed packages:  
-pip -r install requirements.txt  
+pip install -r requirements.txt  
 or type: pip install adafruit-circuitpython-dht  
   
 then setup your config using create_config.py  
