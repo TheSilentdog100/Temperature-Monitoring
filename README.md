@@ -8,7 +8,7 @@ Using a sensor from Adafruit_DHT.
   
 To install all the needed packages:  
 pip -r install requirements.txt  
-or type: pip install Adafruit_DHT  
+or type: pip install adafruit-circuitpython-dht  
   
 then setup your config using create_config.py  
 type: python3 create_config.py and follow the instructions  
